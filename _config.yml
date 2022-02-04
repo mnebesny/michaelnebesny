@@ -20,10 +20,9 @@
 
 title: Michael Nebesny
 email: michael@nebesny.ca
+phone: 905-447-1607
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Michael Nebesny is a commerce student and aspiring CPA who is currently based in Toronto, ON.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://michael.nebesny.ca" # the base hostname & protocol for your site, e.g. http://example.com
 google_analytics: UA-154598730-1 

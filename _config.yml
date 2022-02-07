@@ -28,6 +28,7 @@ url: "https://michael.nebesny.ca" # the base hostname & protocol for your site, 
 google_analytics: UA-154598730-1 
 # twitter_username: jekyllrb
 github_username: mnebesny
+linkedin_username: nebesny
 
 # Build settings
 theme: minima

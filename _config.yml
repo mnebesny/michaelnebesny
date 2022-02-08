@@ -30,6 +30,9 @@ google_analytics: UA-154598730-1
 github_username: mnebesny
 linkedin_username: nebesny
 
+permalink: pretty
+timezone: America/Toronto
+
 # Build settings
 theme: minima
 plugins:

@@ -1,0 +1,3 @@
+.social-media-list li + li {
+    padding-top: 0; /*Removes weird spacing in social media links*/
+}
